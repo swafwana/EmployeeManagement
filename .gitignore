@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+.dotnet_cli/
+appsettings.Development.json
+*.user
+*.suo
+
+# Node / Vite
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
